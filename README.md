@@ -17,9 +17,15 @@
 <div align="center">
     <img width="100%" src="https://github.com/0x3EF8/0x3EF8/blob/main/images/header_.png" />
 </div>
-<div align="center">
-    <img width="100%" src="https://github.com/0x3EF8/0x3EF8/blob/main/images/dino-dark.gif" />
-</div>
+
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/dino.gif" />
+    <img alt="https://mrousavy.com" src="./images/dino.gif" />
+  </picture>
+</a>
+
 
 ```typescript
 const developer = {
