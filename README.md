@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![Play Chrome Dino](dino.gif)](https://chromedino.com/black/)
+<div>
+  hello
+</div>
 
 <!--
 **Rahulchauhan50/Rahulchauhan50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
