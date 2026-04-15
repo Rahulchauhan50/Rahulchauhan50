@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+[![Play Chrome Dino](dino.gif)](https://chromedino.com/black/)
 
 <!--
 **Rahulchauhan50/Rahulchauhan50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
