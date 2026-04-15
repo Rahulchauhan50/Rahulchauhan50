@@ -1,38 +1,47 @@
 <div align="left">
-    <a href="https://www.facebook.com/x3ef8">
-        <img src="https://img.shields.io/badge/-x3ef8-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/0x3ef8.dev" alt="Stalk Me, also click FOLLOW button">
+    <a href="https://www.instagram.com/rahullllchauhan">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://user-badge.committers.top/philippines/0x3EF8">
-        <img src="https://user-badge.committers.top/philippines/0x3EF8.svg" alt="committers.top badge">
+    <a href="https://www.linkedin.com/in/rahulchauhan50">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <img align="right" src="https://komarev.com/ghpvc/?username=0x3ef8&label=Profile%20Views&color=565f89&style=flat" alt="Views">
+    <a href="https://yourportfolio.com">
+        <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <img align="right" src="https://komarev.com/ghpvc/?username=Rahulchauhan50&label=Profile%20Views&color=565f89&style=flat" alt="Views">
 </div>
 
 <div align="center">
     <img width="100%" src="https://github.com/0x3EF8/0x3EF8/blob/main/images/header_.png" />
 </div>
+<div align="center">
+    <img width="100%" src="https://github.com/0x3EF8/0x3EF8/blob/main/images/dino-dark.gif" />
+</div>
 
 ```typescript
 const developer = {
-  name:       "Jay Patrick Cano",
-  alias:      "0x3EF8",
-  role:       "Full-Stack Developer",
-  location:   "Philippines 🇵🇭",
-  status:     "Open to opportunities · Always learning",
+  name: "Jay Patrick Cano",
+  alias: "0x3EF8",
+  role: "Full-Stack Developer",
+  location: "Philippines 🇵🇭",
+  status: "Open to opportunities · Always learning",
 
   stack: {
-    languages:  ["JavaScript", "TypeScript", "Python", "PHP", "C#"],
-    frontend:   ["React", "Next.js", "Vue.js", "Tailwind CSS", "Sass"],
-    backend:    ["Node.js", "Express.js", "Laravel", "REST APIs", "GraphQL"],
-    databases:  ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Supabase"],
-    devOps:     ["Git", "Docker", "GitHub Actions", "CI/CD", "AWS · GCP · Azure"],
+    languages: ["JavaScript", "TypeScript", "Python", "PHP", "C#"],
+    frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS", "Sass"],
+    backend: ["Node.js", "Express.js", "Laravel", "REST APIs", "GraphQL"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Supabase"],
+    devOps: ["Git", "Docker", "GitHub Actions", "CI/CD", "AWS · GCP · Azure"],
     automation: ["Python Scripting", "Web Scraping", "Shell & Batch Scripts"],
   },
 
   links: {
-    portfolio:  "https://jaypatrickcano.vercel.app",
-    github:     "https://github.com/0x3ef8",
-    linktree:   "https://0x3ef8.github.io/linktree",
+    portfolio: "https://jaypatrickcano.vercel.app",
+    github: "https://github.com/0x3ef8",
+    linktree: "https://0x3ef8.github.io/linktree",
   },
 
   quote: "Programming knowledge is the key to unlocking the power of a god.",
@@ -42,6 +51,7 @@ export default developer;
 ```
 
 <!-- STATS:START -->
+
 ```text
 0x3EF8 · Dev Metrics                                                       | Quick Insights
 From: 2020 - To: 2026                                                      | Top Lang : n/a ( 0.00%)
@@ -84,4 +94,5 @@ Stats & Proficiency
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  Languages/Time/Day/Editors/OS from WakaTime API · Repo stats from GitHub API · Updated: 2026-04-15 19:50:46 PHT
 ```
+
 <!-- STATS:END -->
