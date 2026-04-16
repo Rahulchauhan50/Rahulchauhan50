@@ -34,7 +34,7 @@
 
 
 
-
+<!-- 
 
 ```typescript
 const developer = {
@@ -62,7 +62,7 @@ const developer = {
 } as const;
 
 export default developer;
-```
+``` -->
 
 <!-- STATS:START -->
 
