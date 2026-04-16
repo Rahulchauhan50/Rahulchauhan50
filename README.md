@@ -20,11 +20,18 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/dino.gif" />
     <img alt="https://mrousavy.com" src="./images/dino.gif" />
   </picture>
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/rahul_terminal_profile.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/rahul_terminal_profile.svg" />
+    <img alt="https://mrousavy.com" src="./images/dino.gif" />
+  </picture>
 </a>
 
 <!-- <div align="center">
     <img width="100%" src="https://github.com/0x3EF8/0x3EF8/blob/main/images/header_.png" />
 </div> -->
+
+
 
 
 

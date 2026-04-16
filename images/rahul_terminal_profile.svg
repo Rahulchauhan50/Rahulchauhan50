@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1600 1486">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="100%" stop-color="#071120" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.45" />
+    </filter>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.22" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%"  />
+  <rect x="32" y="32" rx="24" ry="24" width="1536" height="1346" fill="#060f1d" stroke="#1e293b"
+    filter="url(#shadow)" />
+  <rect x="32" y="32" rx="24" ry="24" width="1536" height="56" fill="#0f172a" />
+  <circle cx="68" cy="60" r="8" fill="#ef4444" />
+  <circle cx="94" cy="60" r="8" fill="#f59e0b" />
+  <circle cx="120" cy="60" r="8" fill="#22c55e" />
+  <text x="800.0" y="66" fill="#94a3b8" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20" text-anchor="middle">rahul@portfolio — zsh — 80×24</text>
+  <text x="72" y="140" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#6b7280">// developer profile initialized</tspan></text>
+  <text x="72" y="184" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f87171">const </tspan><tspan fill="#60a5fa">developer</tspan><tspan fill="#e5e7eb"> = {</tspan></text>
+  <text x="72" y="272" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">  name</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"Rahul Chauhan"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="316" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">  alias</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"Rahul"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="360" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">  role</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"Full-Stack Developer"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="404" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">  location</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"New Delhi"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="448" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">  status</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"Open to opportunities · Always learning"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="536" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">  stack</tspan><tspan fill="#e5e7eb">: {</tspan></text>
+  <text x="72" y="580" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">    languages</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">["JavaScript", "TypeScript", "Python", "C++"]</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="624" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">    frontend</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">["React", "Next.js", "Redux Toolkit", "Tailwind CSS", "Sass"]</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="668" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">    backend</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">["Node.js", "Express.js", "REST APIs", "Prisma", "JWT"]</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="712" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">    databases</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Supabase"]</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="756" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">    devOps</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">["Git", "Docker", "GitHub Actions", "CI/CD", "AWS · GCP · Azure"]</tspan></text>
+  <text x="72" y="800" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#e5e7eb">  },</tspan></text>
+  <text x="72" y="888" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">  links</tspan><tspan fill="#e5e7eb">: {</tspan></text>
+  <text x="72" y="932" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">    portfolio</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"rahulchauhanportfolio.netlify.app"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+  <text x="72" y="976" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">    github</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"github.com/Rahulchauhan50"</tspan></text>
+  <text x="72" y="1020" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#e5e7eb">  },</tspan></text>
+  <text x="72" y="1108" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f59e0b">  quote</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"Programming knowledge is the key to unlocking the power of a god."</tspan></text>
+  <text x="72" y="1152" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#e5e7eb">};</tspan></text>
+  <text x="72" y="1240" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#f87171">export default </tspan><tspan fill="#60a5fa">developer</tspan><tspan fill="#e5e7eb">;</tspan></text>
+  <text x="72" y="1328" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
+    xml:space="preserve"><tspan fill="#6b7280">// system ready ✓</tspan></text>
+  <rect x="472" y="1212" width="16" height="32" rx="3" fill="#a78bfa" opacity="0.85" />
+  <!-- <rect x="64" y="720" width="1472" height="200" rx="18" fill="#071427" stroke="#164e63"
+    filter="url(#glow)" />
+  <text x="88" y="756" fill="#22d3ee" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="22">EDITOR + LANGUAGE SNAPSHOT</text>
+  <line x1="88" y1="772" x2="444" y2="772" stroke="#f472b6" stroke-width="3" />
+  <text x="88" y="812" fill="#e2e8f0" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20">VS Code ■■■■■■□□□□ 64.70% | 8.87 h | Focus mode ready.</text>
+  <text x="88" y="846" fill="#e2e8f0" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20">Antigravity ■■■□□□□□□□ 28.12% | 3.87 h | Deep work sessions.</text>
+  <text x="88" y="880" fill="#e2e8f0" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20">Cursor ■□□□□□□□□□ 8.18% | 2.87 h | AI-assisted coding.</text>
+  <text x="854" y="756" fill="#22d3ee" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="22">&gt; INITIALIZING LANGUAGE MATRIX...</text>
+  <text x="854" y="812" fill="#e2e8f0" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20">JS ■■■■■■■□□□ 68% :: PRIMARY DRIVER</text>
+  <text x="854" y="846" fill="#e2e8f0" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20">PY ■■■■■□□□□□ 52% :: SUPPORT MODULE</text>
+  <text x="854" y="880" fill="#e2e8f0" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20">C++ ■■■□□□□□□□ 27% :: CORE ENGINE</text>
+  <text x="854" y="914" fill="#e2e8f0" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20">TS ■■■■□□□□□□ 35% :: SAFETY LAYER</text>
+  <text x="854" y="910" fill="#94a3b8" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+    font-size="20">&gt; SYSTEM READY ✔</text> -->
+</svg>
