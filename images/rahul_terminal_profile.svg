@@ -11,10 +11,10 @@
       <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.22" />
     </filter>
   </defs> 
-  <!-- <rect width="100%" height="100%" fill="url(#00000000)" /> -->
-  <rect x="32" y="32" rx="24" ry="24" width="100%" height="1346" fill="#060f1d" stroke="#1e293b"
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+  <rect  rx="24" ry="24" width="100%" height="1346" fill="#060f1d" stroke="#1e293b"
     filter="url(#shadow)" />
-  <rect x="32" y="32" rx="24" ry="24" width="100%" height="56" fill="#0f172a" />
+  <rect rx="24" ry="24" width="100%" height="56" fill="#0f172a" />
   <circle cx="68" cy="60" r="8" fill="#ef4444" />
   <circle cx="94" cy="60" r="8" fill="#f59e0b" />
   <circle cx="120" cy="60" r="8" fill="#22c55e" />
@@ -31,7 +31,7 @@
   <text x="72" y="360" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
     xml:space="preserve"><tspan fill="#f59e0b">  role</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"Full-Stack Developer"</tspan><tspan fill="#e5e7eb">,</tspan></text>
   <text x="72" y="404" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
-    xml:space="preserve"><tspan fill="#f59e0b">  location</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"New Delhi"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+    xml:space="preserve"><tspan fill="#f59e0b">  location</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"New Delhi, India"</tspan><tspan fill="#e5e7eb">,</tspan></text>
   <text x="72" y="448" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
     xml:space="preserve"><tspan fill="#f59e0b">  status</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#bae6fd">"Open to opportunities · Always learning"</tspan><tspan fill="#e5e7eb">,</tspan></text>
   <text x="72" y="536" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
