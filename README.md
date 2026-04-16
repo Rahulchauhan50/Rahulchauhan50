@@ -65,23 +65,46 @@ export default developer;
 ```
 
 <!-- STATS:START -->
-
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
- 
-Editors
-
-VS Code           ▰▰▰▰▰▰▰▰▱▱   64.70 %   |  8.87 h                         | Focus mode ready.
-Antigravity       ▰▰▰▱▱▱▱▱▱▱   28.12 %   |  3.87 h                         | Deep work sessions.
-Cursor            ▰▱▱▱▱▱▱▱▱▱   8.18 %    |  2.87 h                         | AI-assisted coding.
-
-Operating Systems
-
-Windows           ▰▰▰▰▰▰▰▰▰▰   100.00 %  |  11.53 h  | Automation friendly.
-Linux (WSL)       ▰▰▰▰▰▱▱▱▱▱   52.40 %   |  6.03 h   | Dev environment ready.
+0x3EF8 · Dev Metrics                                                       | Quick Insights
+From: 2020 - To: 2026                                                      | Top Lang : n/a ( 0.00%)
+35+ public repos   |   0 stars                                             | Top Editor: n/a ( 0.00%)
+WakaTime (last 7d): n/a total · n/a daily avg                              | Peak Time: n/a ( 0.00%)
+                                                                           | Peak Day : n/a ( 0.00%)
+                                                                           | Activity : 0 chunks
+Stats & Proficiency
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Languages
+ WakaTime data unavailable (set WAKATIME_API_KEY).                         | Pet is sleeping.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ I Code Most During
+
+ Morning    (06-12)   ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                     | Debug and refine.
+ Daytime    (12-18)   ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                     | Plan and warm up.
+ Evening    (18-24)   ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                     | Build and iterate.
+ Night      (00-06)   ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                     | Feature flow window.
+
+ I Am Most Productive On
+
+ Monday     ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                               | Review day
+ Tuesday    ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                               | Automation day
+ Wednesday  ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                               | Learning day
+ Thursday   ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                               | Planning day
+ Friday     ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                               | Momentum day
+ Saturday   ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                               | Shipping day
+ Sunday     ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                               | Refactor day
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Editors and Operating Systems
+ Unknown           ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                        | Fast feedback loop.
+ Unknown           ▱▱▱▱▱▱▱▱▱▱    0.00 %   |     n/a                        | Toolchain optimized.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ Languages/Time/Day/Editors/OS from WakaTime API · Repo stats from GitHub API · Updated: 2026-04-16 15:18:36 PHT
 ```
-
 <!-- STATS:END -->
