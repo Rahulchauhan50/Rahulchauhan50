@@ -14,7 +14,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=Rahulchauhan50&label=Profile%20Views&color=565f89&style=flat" alt="Views">
 </div>
 
-<a href="https://chromedino.com">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/dino-dark.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./images/dino.gif" />
@@ -25,7 +25,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/rahul_terminal_profile.svg" />
     <img alt="https://mrousavy.com" src="./images/dino.gif" />
   </picture>
-</a>
+
 
 <!-- <div align="center">
     <img width="100%" src="https://github.com/0x3EF8/0x3EF8/blob/main/images/header_.png" />
