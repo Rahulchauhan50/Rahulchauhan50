@@ -66,6 +66,48 @@ export default developer;
 
 <!-- STATS:START -->
 ```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Editors
+
+VS Code           ▰▰▰▰▰▰▰▰▱▱   64.70 %   |  8.87 h                         | Focus mode ready.
+Antigravity       ▰▰▰▱▱▱▱▱▱▱   28.12 %   |  3.87 h                         | Deep work sessions.
+Cursor            ▰▱▱▱▱▱▱▱▱▱   8.18 %    |  2.87 h                         | AI-assisted coding.
+
+Operating Systems
+
+Windows           ▰▰▰▰▰▰▰▰▰▰   100.00 %  |  11.53 h  | Automation friendly.
+Linux (WSL)       ▰▰▰▰▰▱▱▱▱▱   52.40 %   |  6.03 h   | Dev environment ready.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$ dev-stats --languages
+
+> Loading language modules...
+
+JavaScript        [########..]         68.2%    |   Async / Full-stack
+TypeScript        [####......]         34.8%    |   Scalable systems
+Python            [##........]         52.1%    |   Automation / Logic
+C                 [###.......]         27.4%    |   Performance / DSA
+
+> Status: All systems operational.
+
+> SYSTEM READY ✔
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 0x3EF8 · Dev Metrics                                                       | Quick Insights
 From: 2020 - To: 2026                                                      | Top Lang : n/a ( 0.00%)
 35+ public repos   |   0 stars                                             | Top Editor: n/a ( 0.00%)
