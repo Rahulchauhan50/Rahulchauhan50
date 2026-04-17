@@ -11,14 +11,14 @@
       <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.22" />
     </filter>
   </defs> 
-  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+  <rect width="100%" height="100%" fill="#00000000" />
   <rect  rx="24" ry="24" width="100%" height="1346" fill="#060f1d" stroke="#1e293b"
     filter="url(#shadow)" />
   <rect rx="24" ry="24" width="100%" height="56" fill="#0f172a" />
-  <circle cx="68" cy="60" r="8" fill="#ef4444" />
-  <circle cx="94" cy="60" r="8" fill="#f59e0b" />
-  <circle cx="120" cy="60" r="8" fill="#22c55e" />
-  <text x="800.0" y="66" fill="#94a3b8" font-family="JetBrains Mono, Consolas, Menlo, monospace"
+  <circle cx="68" cy="30" r="8" fill="#ef4444" />
+  <circle cx="94" cy="30" r="8" fill="#f59e0b" />
+  <circle cx="120" cy="30" r="8" fill="#22c55e" />
+  <text x="800.0" y="30" fill="#94a3b8" font-family="JetBrains Mono, Consolas, Menlo, monospace"
     font-size="20" text-anchor="middle">rahul@portfolio — zsh — 80×24</text>
   <text x="72" y="140" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="28"
     xml:space="preserve"><tspan fill="#6b7280">// developer profile initialized</tspan></text>
