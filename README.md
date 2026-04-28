@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/rahulchauhan50">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://yourportfolio.com">
+    <a href="https://rahulcodes.tech">
         <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
     <a href="mailto:your.email@example.com">
